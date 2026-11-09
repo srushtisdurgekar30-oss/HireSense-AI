@@ -1,0 +1,15 @@
+
+Job Title: Machine Learning Engineer
+
+We are looking for a Machine Learning Engineer
+with strong Python programming skills.
+
+Required skills:
+Python, SQL, Machine Learning, Deep Learning,
+TensorFlow, Scikit-learn and Natural Language Processing.
+
+Preferred skills:
+Computer Vision, OpenCV, Data Analysis and PyTorch.
+
+Candidates should have knowledge of data processing,
+model development and problem solving.
